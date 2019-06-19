@@ -1,6 +1,6 @@
 Hi,
 
-This development is referenced to https://github.com/scikit-learn-contrib/hdbscan.
+This development is referenced to https://github.com/scikit-learn-contrib/hdbscan .
 
 Based on the papers:
 
